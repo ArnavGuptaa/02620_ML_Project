@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+d089304e-6ff8-5a50-8bd8-eb7dd86ed600	1677	analyte	bde3e429-4afa-4855-8a6c-9862232ec313	Item in special subset	Notification	2011-03-14T00:00:00	Approved	Portioning Study

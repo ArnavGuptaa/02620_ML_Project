@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+97095c7b-8045-5715-9e63-3c43b44438b5	28435	case	5119aceb-ad95-4904-b6c0-a0a4b42c17d0	Neoadjuvant therapy	Notification	2015-07-01T00:00:00	Approved	During enrollment, the TSS discovered the patient had temozolomide chemotherapy prior to the TCGA cancer procurement.

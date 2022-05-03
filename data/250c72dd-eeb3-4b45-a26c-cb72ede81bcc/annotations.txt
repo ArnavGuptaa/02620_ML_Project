@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+1ba2aa14-e40d-5385-9c6d-cac0b3ac9baf	12092	case	cb598780-9e42-4167-b487-eec90ad4f36f	Case submitted is found to be a recurrence after submission	Notification	2012-11-10T00:00:00	Approved	Sample sent to TCGA was not the primary tumor, it was a recurrence.

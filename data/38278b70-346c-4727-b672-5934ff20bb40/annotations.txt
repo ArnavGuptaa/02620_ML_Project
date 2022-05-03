@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+189f24b7-35c0-5295-8d56-4dee6a04b257	20732	case	1f33aebc-edc1-42c5-baa9-e4b0a06fcb26	Neoadjuvant therapy	Notification	2014-06-16T00:00:00	Approved	systemic treatment

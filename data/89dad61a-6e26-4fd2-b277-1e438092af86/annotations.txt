@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+b6dc9edc-9c85-509b-8bd5-0637659364b3	4731	analyte	573ea431-3af5-498d-8e1c-3042f93c14c8	Item is noncanonical	Notification	2011-12-15T00:00:00	Approved	GBM Triplet

@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+039abb4f-d541-588a-8245-e06d9ce079d6	26882	case	183dd089-e932-4be2-b252-0e8572e7da4e	Item may not meet study protocol	Observation	2015-03-06T00:00:00	Approved	TSS confirmed that submitted tumor is a recurrence and patient had 2 prior resections before tumor submitted to BCR. Submitted tumor was in same tumor bed as primary. The patient had no prior chemo/radiation treatment.

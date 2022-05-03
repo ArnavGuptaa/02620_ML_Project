@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+b342fbb2-20d1-5926-90df-76f60e0bb3c0	11863	case	0df37550-9421-4571-9844-51b457d7cb2b	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy testicular cancer. No systemic chemotherapy or radiation.
+aefb68c1-a2c9-5376-bedb-2ee08a3c0cad	15287	case	0df37550-9421-4571-9844-51b457d7cb2b	Prior malignancy	Notification	2013-02-01T00:00:00	Approved	Patient had prior testicular germ cell tumor. No radiation or systemic chemotherapy.

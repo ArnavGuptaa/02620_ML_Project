@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+f316d2b9-a90f-5796-b2d1-b6b1bb411515	3384	case	9348e446-0e43-4210-b07e-c534980cbf62	Item in special subset	Notification	2011-09-18T00:00:00	Approved	Case came in as GBM.  BCR was notified that case was LGG.  Program Office determined this will be a Notification vs. a Redaction

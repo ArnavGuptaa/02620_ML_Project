@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+bc78bd01-4e27-5f74-a72d-e90f7a5dd6eb	29661	case	737b35e1-d668-4fce-9b6e-76946c7952b6	Item may not meet study protocol	Observation	2015-10-09T00:00:00	Approved	Pt treated with dexmethasone and phenytoin sodium 6 days prior to procurement. According to the NIH, dexmethasone is an ancillary or hormone drug; SEER lists phenytoin sodium as an anticonvulsant to treat seizures.

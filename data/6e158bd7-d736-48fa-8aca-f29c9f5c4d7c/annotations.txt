@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+ea1cfe5d-9dc5-51c2-bb59-0305e531a1f2	4965	case	c3c41fd2-f0d7-4f46-9e18-cce4626538c2	Prior malignancy	Notification	2012-01-24T00:00:00	Approved	[intgen.org]: Prior malignancy of thyroid.  No systemic treatment or radiation given.

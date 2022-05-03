@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+91df73fa-c281-5193-bad4-71338c6e85f6	11701	case	a144e4e4-2877-4340-a2bf-524adbde8bc8	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy melanoma. No systemic chemotherapy or radiation.

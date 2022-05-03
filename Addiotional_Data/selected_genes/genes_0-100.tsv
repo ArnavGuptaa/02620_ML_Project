@@ -1,0 +1,101 @@
+Symbol	Name	# SSM Affected Cases in Cohort	# SSM Affected Cases Across the GDC	# CNV Gain	# CNV Loss	# Mutations	Annotations	Survival
+IDH1	isocitrate dehydrogenase (NADP(+)) 1	422 / 984 (42.89%)	554 / 12,968	--	--	6	Cancer Gene Census	add to survival plot
+TP53	tumor protein p53	396 / 984 (40.24%)	4,609 / 12,968	--	--	240	Cancer Gene Census	add to survival plot
+ATRX	ATRX chromatin remodeler	230 / 984 (23.37%)	743 / 12,968	--	--	233	Cancer Gene Census	add to survival plot
+PTEN	phosphatase and tensin homolog	192 / 984 (19.51%)	1,066 / 12,968	--	--	148	Cancer Gene Census	add to survival plot
+EGFR	epidermal growth factor receptor	141 / 984 (14.33%)	563 / 12,968	--	--	73	Cancer Gene Census	add to survival plot
+MUC16	mucin 16, cell surface associated	117 / 984 (11.89%)	2,648 / 12,968	--	--	185	Cancer Gene Census	add to survival plot
+CIC	capicua transcriptional repressor	114 / 984 (11.59%)	412 / 12,968	--	--	101	Cancer Gene Census	add to survival plot
+PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha	90 / 984 (9.15%)	1,574 / 12,968	--	--	59	Cancer Gene Census	add to survival plot
+NF1	neurofibromin 1	90 / 984 (9.15%)	795 / 12,968	--	--	114	Cancer Gene Census	add to survival plot
+PIK3R1	phosphoinositide-3-kinase regulatory subunit 1	66 / 984 (6.71%)	482 / 12,968	--	--	53	Cancer Gene Census	add to survival plot
+RB1	RB transcriptional corepressor 1	53 / 984 (5.39%)	520 / 12,968	--	--	51	Cancer Gene Census	add to survival plot
+FUBP1	far upstream element binding protein 1	47 / 984 (4.78%)	208 / 12,968	--	--	44	Cancer Gene Census	add to survival plot
+NOTCH1	notch receptor 1	40 / 984 (4.07%)	590 / 12,968	--	--	44	Cancer Gene Census	add to survival plot
+CSMD3	CUB and Sushi multiple domains 3	36 / 984 (3.66%)	1,795 / 12,968	--	--	44	Cancer Gene Census	add to survival plot
+BCOR	BCL6 corepressor	35 / 984 (3.56%)	431 / 12,968	--	--	38	Cancer Gene Census	add to survival plot
+SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	30 / 984 (3.05%)	515 / 12,968	--	--	36	Cancer Gene Census	add to survival plot
+GRIN2A	glutamate ionotropic receptor NMDA type subunit 2A	29 / 984 (2.95%)	727 / 12,968	--	--	35	Cancer Gene Census	add to survival plot
+FAT4	FAT atypical cadherin 4	28 / 984 (2.85%)	1,303 / 12,968	--	--	42	Cancer Gene Census	add to survival plot
+PDGFRA	platelet derived growth factor receptor alpha	27 / 984 (2.74%)	391 / 12,968	--	--	31	Cancer Gene Census	add to survival plot
+CNTNAP2	contactin associated protein 2	27 / 984 (2.74%)	734 / 12,968	--	--	32	Cancer Gene Census	add to survival plot
+LRP1B	LDL receptor related protein 1B	26 / 984 (2.64%)	1,645 / 12,968	--	--	46	Cancer Gene Census	add to survival plot
+TRRAP	transformation/transcription domain associated protein	25 / 984 (2.54%)	658 / 12,968	--	--	37	Cancer Gene Census	add to survival plot
+KMT2C	lysine methyltransferase 2C	24 / 984 (2.44%)	975 / 12,968	--	--	40	Cancer Gene Census	add to survival plot
+IDH2	isocitrate dehydrogenase (NADP(+)) 2	23 / 984 (2.34%)	121 / 12,968	--	--	9	Cancer Gene Census	add to survival plot
+SETD2	SET domain containing 2, histone lysine methyltransferase	23 / 984 (2.34%)	509 / 12,968	--	--	35	Cancer Gene Census	add to survival plot
+DCAF12L2	DDB1 and CUL4 associated factor 12 like 2	23 / 984 (2.34%)	360 / 12,968	--	--	20	Cancer Gene Census	add to survival plot
+ARID1A	AT-rich interaction domain 1A	23 / 984 (2.34%)	1,009 / 12,968	--	--	28	Cancer Gene Census	add to survival plot
+FLT4	fms related receptor tyrosine kinase 4	22 / 984 (2.24%)	421 / 12,968	--	--	24	Cancer Gene Census	add to survival plot
+MED12	mediator complex subunit 12	21 / 984 (2.13%)	487 / 12,968	--	--	27	Cancer Gene Census	add to survival plot
+LZTR1	leucine zipper like transcription regulator 1	21 / 984 (2.13%)	234 / 12,968	--	--	22	Cancer Gene Census	add to survival plot
+GRM3	glutamate metabotropic receptor 3	21 / 984 (2.13%)	469 / 12,968	--	--	23	Cancer Gene Census	add to survival plot
+FLNA	filamin A	21 / 984 (2.13%)	534 / 12,968	--	--	30	Cancer Gene Census	add to survival plot
+KMT2D	lysine methyltransferase 2D	20 / 984 (2.03%)	1,159 / 12,968	--	--	31	Cancer Gene Census	add to survival plot
+PTPN11	protein tyrosine phosphatase non-receptor type 11	20 / 984 (2.03%)	190 / 12,968	--	--	20	Cancer Gene Census	add to survival plot
+ANK1	ankyrin 1	19 / 984 (1.93%)	633 / 12,968	--	--	25	Cancer Gene Census	add to survival plot
+MECOM	MDS1 and EVI1 complex locus	19 / 984 (1.93%)	410 / 12,968	--	--	29	Cancer Gene Census	add to survival plot
+FAT1	FAT atypical cadherin 1	19 / 984 (1.93%)	947 / 12,968	--	--	33	Cancer Gene Census	add to survival plot
+MUC4	mucin 4, cell surface associated	19 / 984 (1.93%)	551 / 12,968	--	--	29	Cancer Gene Census	add to survival plot
+STAG2	stromal antigen 2	19 / 984 (1.93%)	348 / 12,968	--	--	21	Cancer Gene Census	add to survival plot
+KDR	kinase insert domain receptor	19 / 984 (1.93%)	450 / 12,968	--	--	21	Cancer Gene Census	add to survival plot
+TCF12	transcription factor 12	19 / 984 (1.93%)	174 / 12,968	--	--	21	Cancer Gene Census	add to survival plot
+ROS1	ROS proto-oncogene 1, receptor tyrosine kinase	19 / 984 (1.93%)	549 / 12,968	--	--	23	Cancer Gene Census	add to survival plot
+FAM47C	family with sequence similarity 47 member C	18 / 984 (1.83%)	576 / 12,968	--	--	20	Cancer Gene Census	add to survival plot
+MYH11	myosin heavy chain 11	18 / 984 (1.83%)	514 / 12,968	--	--	18	Cancer Gene Census	add to survival plot
+PTPRC	protein tyrosine phosphatase receptor type C	18 / 984 (1.83%)	445 / 12,968	--	--	19	Cancer Gene Census	add to survival plot
+NOTCH2	notch receptor 2	17 / 984 (1.73%)	404 / 12,968	--	--	22	Cancer Gene Census	add to survival plot
+DNMT3A	DNA methyltransferase 3 alpha	17 / 984 (1.73%)	281 / 12,968	--	--	17	Cancer Gene Census	add to survival plot
+ARID2	AT-rich interaction domain 2	17 / 984 (1.73%)	491 / 12,968	--	--	23	Cancer Gene Census	add to survival plot
+AKAP9	A-kinase anchoring protein 9	17 / 984 (1.73%)	608 / 12,968	--	--	29	Cancer Gene Census	add to survival plot
+BRAF	B-Raf proto-oncogene, serine/threonine kinase	16 / 984 (1.63%)	903 / 12,968	--	--	9	Cancer Gene Census	add to survival plot
+DCC	DCC netrin 1 receptor	16 / 984 (1.63%)	702 / 12,968	--	--	20	Cancer Gene Census	add to survival plot
+FBLN2	fibulin 2	16 / 984 (1.63%)	243 / 12,968	--	--	16	Cancer Gene Census	add to survival plot
+SALL4	spalt like transcription factor 4	16 / 984 (1.63%)	344 / 12,968	--	--	18	Cancer Gene Census	add to survival plot
+PTPRT	protein tyrosine phosphatase receptor type T	16 / 984 (1.63%)	742 / 12,968	--	--	18	Cancer Gene Census	add to survival plot
+CARD11	caspase recruitment domain family member 11	16 / 984 (1.63%)	442 / 12,968	--	--	17	Cancer Gene Census	add to survival plot
+RPL5	ribosomal protein L5	15 / 984 (1.52%)	141 / 12,968	--	--	15	Cancer Gene Census	add to survival plot
+PTPRD	protein tyrosine phosphatase receptor type D	15 / 984 (1.52%)	707 / 12,968	--	--	22	Cancer Gene Census	add to survival plot
+BCORL1	BCL6 corepressor like 1	15 / 984 (1.52%)	452 / 12,968	--	--	19	Cancer Gene Census	add to survival plot
+BCL11A	BAF chromatin remodeling complex subunit BCL11A	15 / 984 (1.52%)	339 / 12,968	--	--	17	Cancer Gene Census	add to survival plot
+FAT3	FAT atypical cadherin 3	15 / 984 (1.52%)	1,281 / 12,968	--	--	23	Cancer Gene Census	add to survival plot
+COL2A1	collagen type II alpha 1 chain	15 / 984 (1.52%)	369 / 12,968	--	--	16	Cancer Gene Census	add to survival plot
+MTOR	mechanistic target of rapamycin kinase	15 / 984 (1.52%)	442 / 12,968	--	--	16	Cancer Gene Census	add to survival plot
+MAP3K1	mitogen-activated protein kinase kinase kinase 1	15 / 984 (1.52%)	356 / 12,968	--	--	16	Cancer Gene Census	add to survival plot
+CREBBP	CREB binding protein	14 / 984 (1.42%)	603 / 12,968	--	--	22	Cancer Gene Census	add to survival plot
+MSH6	mutS homolog 6	14 / 984 (1.42%)	283 / 12,968	--	--	19	Cancer Gene Census	add to survival plot
+PBRM1	polybromo 1	14 / 984 (1.42%)	484 / 12,968	--	--	18	Cancer Gene Census	add to survival plot
+KMT2A	lysine methyltransferase 2A	14 / 984 (1.42%)	623 / 12,968	--	--	24	Cancer Gene Census	add to survival plot
+BRCA2	BRCA2 DNA repair associated	14 / 984 (1.42%)	522 / 12,968	--	--	29	Cancer Gene Census	add to survival plot
+PTPRB	protein tyrosine phosphatase receptor type B	14 / 984 (1.42%)	584 / 12,968	--	--	15	Cancer Gene Census	add to survival plot
+WNK2	WNK lysine deficient protein kinase 2	14 / 984 (1.42%)	393 / 12,968	--	--	14	Cancer Gene Census	add to survival plot
+KIT	KIT proto-oncogene, receptor tyrosine kinase	14 / 984 (1.42%)	312 / 12,968	--	--	14	Cancer Gene Census	add to survival plot
+UBR5	ubiquitin protein ligase E3 component n-recognin 5	14 / 984 (1.42%)	516 / 12,968	--	--	21	Cancer Gene Census	add to survival plot
+CDH17	cadherin 17	14 / 984 (1.42%)	254 / 12,968	--	--	16	Cancer Gene Census	add to survival plot
+CD209	CD209 molecule	14 / 984 (1.42%)	116 / 12,968	--	--	13	Cancer Gene Census	add to survival plot
+CACNA1D	calcium voltage-gated channel subunit alpha1 D	14 / 984 (1.42%)	460 / 12,968	--	--	18	Cancer Gene Census	add to survival plot
+COL3A1	collagen type III alpha 1 chain	13 / 984 (1.32%)	510 / 12,968	--	--	13	Cancer Gene Census	add to survival plot
+GLI1	GLI family zinc finger 1	13 / 984 (1.32%)	303 / 12,968	--	--	15	Cancer Gene Census	add to survival plot
+PLCG1	phospholipase C gamma 1	13 / 984 (1.32%)	236 / 12,968	--	--	12	Cancer Gene Census	add to survival plot
+VAV1	vav guanine nucleotide exchange factor 1	13 / 984 (1.32%)	258 / 12,968	--	--	15	Cancer Gene Census	add to survival plot
+COL1A1	collagen type I alpha 1 chain	13 / 984 (1.32%)	337 / 12,968	--	--	18	Cancer Gene Census	add to survival plot
+ZMYM3	zinc finger MYM-type containing 3	13 / 984 (1.32%)	299 / 12,968	--	--	15	Cancer Gene Census	add to survival plot
+SMC1A	structural maintenance of chromosomes 1A	13 / 984 (1.32%)	243 / 12,968	--	--	17	Cancer Gene Census	add to survival plot
+PRPF40B	pre-mRNA processing factor 40 homolog B	13 / 984 (1.32%)	181 / 12,968	--	--	12	Cancer Gene Census	add to survival plot
+TERT	telomerase reverse transcriptase	13 / 984 (1.32%)	232 / 12,968	--	--	16	Cancer Gene Census	add to survival plot
+PREX2	phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 2	13 / 984 (1.32%)	649 / 12,968	--	--	19	Cancer Gene Census	add to survival plot
+ROBO2	roundabout guidance receptor 2	13 / 984 (1.32%)	597 / 12,968	--	--	17	Cancer Gene Census	add to survival plot
+IRS4	insulin receptor substrate 4	12 / 984 (1.22%)	414 / 12,968	--	--	12	Cancer Gene Census	add to survival plot
+KAT6B	lysine acetyltransferase 6B	12 / 984 (1.22%)	313 / 12,968	--	--	19	Cancer Gene Census	add to survival plot
+ASXL1	ASXL transcriptional regulator 1	12 / 984 (1.22%)	359 / 12,968	--	--	15	Cancer Gene Census	add to survival plot
+EPHA3	EPH receptor A3	12 / 984 (1.22%)	484 / 12,968	--	--	12	Cancer Gene Census	add to survival plot
+NBEA	neurobeachin	12 / 984 (1.22%)	628 / 12,968	--	--	15	Cancer Gene Census	add to survival plot
+TNC	tenascin C	12 / 984 (1.22%)	478 / 12,968	--	--	22	Cancer Gene Census	add to survival plot
+IKZF1	IKAROS family zinc finger 1	12 / 984 (1.22%)	270 / 12,968	--	--	12	Cancer Gene Census	add to survival plot
+FOXA1	forkhead box A1	12 / 984 (1.22%)	196 / 12,968	--	--	12	Cancer Gene Census	add to survival plot
+FLT3	fms related receptor tyrosine kinase 3	12 / 984 (1.22%)	294 / 12,968	--	--	14	Cancer Gene Census	add to survival plot
+ERG	ETS transcription factor ERG	12 / 984 (1.22%)	182 / 12,968	--	--	12	Cancer Gene Census	add to survival plot
+FANCD2	FA complementation group D2	12 / 984 (1.22%)	248 / 12,968	--	--	16	Cancer Gene Census	add to survival plot
+NFATC2	nuclear factor of activated T cells 2	12 / 984 (1.22%)	290 / 12,968	--	--	15	Cancer Gene Census	add to survival plot
+TP63	tumor protein p63	12 / 984 (1.22%)	378 / 12,968	--	--	13	Cancer Gene Census	add to survival plot
+ZFHX3	zinc finger homeobox 3	12 / 984 (1.22%)	739 / 12,968	--	--	22	Cancer Gene Census	add to survival plot

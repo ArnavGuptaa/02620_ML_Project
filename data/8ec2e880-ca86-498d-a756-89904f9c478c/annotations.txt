@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+83c24955-c296-55d7-bf11-c1d6d685cd24	11862	case	e09f93e1-1649-48fa-9e2e-d13ac6d50b97	Normal tissue origin incorrect	Notification	2012-10-31T00:00:00	Approved	Samples were created as tssDNA from Normal Tissue.  Actually are tssDNA extracted from Blood.  Should have been 10A instead of 11A.

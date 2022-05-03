@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+30e86097-e380-5031-9be1-a17b1c120247	11919	case	cd73f38a-f6ff-4e7b-bd43-ec7b82dbe7df	Case submitted is found to be a recurrence after submission	Notification	2012-11-10T00:00:00	Approved	Per enrollment form, patient had a prior diagnosis of a lower grade glioma.
