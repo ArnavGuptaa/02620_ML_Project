@@ -2,10 +2,10 @@
 02620 Machine Learning Project
 
 Contributors
-Arnav Gupta
-Ketaki Ghatole
-Aditi Sarathy
-Miridhula Mukandan
+Arnav Gupta \n
+Ketaki Ghatole \n
+Aditi Sarathy \n
+Miridhula Mukandan \n
 
 ```bash
 ./get_data.sh
