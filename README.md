@@ -5,7 +5,7 @@ Contributors
 Arnav Gupta   
 Ketaki Ghatole  
 Aditi Sarathy   
-Miridhula Mukandan  
+Mirudhula Mukandan  
 
 ```bash
 ./get_data.sh
