@@ -158,6 +158,10 @@ class GNB:
 	    return self.TestModel(X) 
 
 	def cross_valid(self,X,y):
+		new_label = {'Glioma':1,'Glioblastoma':1, 'A+O':2, 'Astrocytoma':3, 'Oligodendroglioma':4, 'Normal':5}
+		Ypre = y.apply(lambda x: new_label[x])
+		y = Ypre.to_numpy()
+
 		master_dict = {'accuracy':[],'precision':[],'recall':[],'f1':[]}
 		indices = random.sample(range(len(X)), len(X))
 		X = X[indices]
